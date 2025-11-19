@@ -14,21 +14,17 @@ Klystron power supply, Gunn power supply, VSWR meter, power meter, Slotted secti
 5.	Know initial settings of controls of the equipments before switching on the supply.
 6.	Precautions to be taken while carrying out the measurements.
 
-## Observation: ( Include your own Table relevant to the Experiment)
-
+## Observation:
 	Identify the components/devices.
 	Study basic principle of operation of devices and components.
 	Know typical application of each component.
 	Identify the E field and H field mode patterns in these devices.
 
-
 ## Theory
-
 Components/Devices:
 Attenuator, circulator, Isolator, Waveguide twist, Magic Tee, E plane, H plane Tee, Directional coupler, Matched termination, PIN modulator, Crystal detector, Reflex klystron tube, Gunn diode, different types of antennas available.
 
 ## LIST OF EQUIPMENTS AND DEVICES TO BE STUDIED:
-
 1.	Klystron Power Supply
 2.	Klystron tube
 3.	Isolator
@@ -132,7 +128,6 @@ They are also classified by the type of feed; how the radio waves are supplied t
 Axial or front feed - This is the most common type of feed, with the feed antenna located in front of the dish at the focus, on the beam axis. A disadvantage of this type is that the feed and its supports block some of the beam, which limits the aperture efficiency to only 55 - 60%.
 Offset or off-axis feed - The reflector is an asymmetrical segment of a paraboloid, so the focus, and the feed antenna, is located to one side of the dish. The purpose of this design is to move the feed structure out of the beam path, so it doesn't block the beam. It is widely used in home satellite television dishes, which are small enough that the feed structure would otherwise block a significant percentage of the signal.
 Figure (right) shows the main types of parabolic antenna feeds.
-
 Cassegrain - In a Cassegrain antenna the feed is located on or behind the dish, and radiates forward, illuminating a convex hyperboloidalsecondary reflector at the focus of the dish. The radio waves from the feed reflect back off the secondary reflector to the dish, which forms the main beam. An advantage of this configuration is that the feed, with its waveguides and "front end" electronics does not have to be suspended in front of the dish, so it is used for antennas with complicated or bulky feeds, such as large satellite communication antennas and radio telescopes. Aperture efficiency is on the order of 65 - 70%.
 Gregorian - Similar to the Cassegrain design except that the secondary reflector is concave, (ellipsoidal) in shape. Aperture efficiency over 70% can be achieved.
 Gain:
@@ -154,7 +149,6 @@ The name "magic tee" is derived from the way in which power is divided among the
 
 ### 11.	E and H Plane Tee
 In E Plane Tee the junction of the auxiliary arm is made on the broad wall of the main waveguide. And in H Plane Tee the junction of auxiliary arm is made on the narrow wall of the main waveguide.
-
 E Plane Tee	H Plane Tee
 
 <img width="558" height="249" alt="image" src="https://github.com/user-attachments/assets/28feb232-d473-4618-896b-bc541d18daff" />
@@ -169,8 +163,5 @@ These adapters consist of a short section of waveguide with a probe transition c
 
 <img width="253" height="248" alt="image" src="https://github.com/user-attachments/assets/ec4df7bd-1fb2-4d89-a6cf-d25731f34e45" />
 
-
 ## Conclusions:
-Thus,the experiment is studied and verified
-
-
+Thus, the experiment is studied and verified.
